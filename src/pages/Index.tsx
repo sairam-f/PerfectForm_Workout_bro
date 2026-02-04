@@ -24,7 +24,7 @@ const Index = () => {
           transition={{ delay: 0.1 }}
           className="text-3xl font-black text-foreground text-center mb-3"
         >
-          FitForm AI
+          Workout Bro AI
         </motion.h1>
         
         <motion.p
